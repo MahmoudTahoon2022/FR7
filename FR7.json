@@ -2,7 +2,7 @@
   "devices": {
     "FR7": {
       "version": "2.2.6",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/FR7/main/FR7.2.2.6.bin",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/FR7/main/2.2.6.bin",
       "force": false
     }
   }
